@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/87172c19-79e4-46bf-af7a-8b8eebb5c11b)
+
+
 📚 Student Portal - Full-Stack Web Application
 📝 Project Description
 The Student Portal is a full-stack web application built using Java, Spring Boot, and MySQL for managing student details. It provides an interactive UI where users can add, view, update, and delete student records with an intuitive and responsive design.
